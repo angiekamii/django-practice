@@ -1,0 +1,11 @@
+h1{
+    color: lightpink;
+    width: 500px;
+    font-family: Chilanka;
+    font-weight: bolder;
+}
+body{
+    background-image: url("/static/images/back.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
